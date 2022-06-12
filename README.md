@@ -41,6 +41,7 @@ Chapter 4 Yield Curves, Forecasting & Discounting
 4.2 Discount Factors  
 4.3 The Forward Rate - Discount Factor Relationship  
 4.4 Impact of Collateral  
+  
 4.5 Yield Curve Modelling  
 4.5.1 Forward Rate & Discount Factor Discovery  
 4.5.2 State Variables & Interpolation Methods  
@@ -50,11 +51,13 @@ Chapter 4 Yield Curves, Forecasting & Discounting
 4.5.6 Curve Build Order & Dependencies  
 4.5.7 Curve Bootstrapping  
 4.5.8 Global Calibration  
+  
 4.6 Advanced Curve Features  
 4.6.1 Curve Jacobians  
 4.6.2 Ultra-Fast Curves  
 4.6.3 Real-Time Risk  
 4.6.4 Modelling Jumps, Spikes and the Turn-of-Year Effect  
+  
 4.7 LIBOR Reform  
 4.7.1 LIBOR Benchmark Reform (BMR)  
 4.7.2 Risk-Free Rate (RFR) Curves  
@@ -82,9 +85,11 @@ Chapter 6 Credit Models
   
 Chapter 7 Swap Pricing & Risk  
 7.1 Annuity Definition  
+  
 7.2 Swap Pricing  
 7.2.1 Fixed Leg Definition  
 7.2.2 Float Leg Definition  
+  
 7.3 Swap Pricing  
 7.3.1 Par Rate Definition  
 7.3.2 Receiver Swaps  
