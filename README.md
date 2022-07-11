@@ -93,6 +93,6 @@ List of Symbols and Abbreviations
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.3.8 Choice of Par Rate  
   
 #### Chapter 8 Swap Case Study Examples  
-#### Chapter 9 Asset Swap Structuring  
-#### Chapter 10 Asset Swap Pricing & Risk  
+#### Chapter 9 Asset Swap Pricing & Risk  
+#### Chapter 10 Asset Swap Case Study Examples  
 #### Chapter 11 Conclusion  
