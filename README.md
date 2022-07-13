@@ -82,7 +82,7 @@ List of Symbols and Abbreviations
 7.2 Swap Pricing  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.2.1 Fixed Leg Definition  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.2.2 Float Leg Definition   
-7.3 Swap Pricing  
+7.3 Swap Trading, Market Quotes & Conventions  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.3.1 Par Rate Definition  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.3.2 Receiver Swaps  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.3.3 Payer Swaps  
