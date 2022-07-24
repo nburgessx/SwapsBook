@@ -100,6 +100,21 @@ List of Symbols and Abbreviations
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.6 Hedge Ratios & Duration Matching  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.7 Numerical Risk - PV01 & DV01  
 #### Chapter 8 Interest Rate Swap Case Study Examples  
+8.1 Swap Schedules  
+8.2 Swap Market Data  
+8.3 USD Receiver Swap PV  
+8.4 USD Receiver Swap Par Rate  
+8.5 EUR Payer Swap PV  
+8.6 EUR Payer Swap Par Rate  
+8.7 Swap Risk Case Study  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.1 Swap Fixed & Float Annuities  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.2 Swap Par Rate  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.3 Swap PV  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.4 Macaulay's Duration  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.5 Modified Duration  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.6 Swap PV01  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.7 Swap DV01  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.8 Hedge Ratio & Amount  
 #### Chapter 9 Asset Swap Pricing & Risk  
 #### Chapter 10 Asset Swap Case Study Examples  
 #### Chapter 11 Conclusion  
