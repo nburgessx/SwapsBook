@@ -75,14 +75,14 @@ List of Symbols and Abbreviations
 6.6 Standard Credit Market Models  
 6.7 Credit Proxies, Sector and Index CDS  
   
-## PART TWO: CASE STUDIES – PRICING AND RISK  
+## PART TWO: PRICING & PRACTICE  
   
-#### Chapter 7 Swap Pricing & Risk  
+#### Chapter 7 Interest Rate Swap Pricing & Risk  
 7.1 Annuity Definition   
-7.2 Swap Pricing  
+7.2 Interest Rate Swap Pricing  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.2.1 Fixed Leg Definition  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.2.2 Float Leg Definition   
-7.3 Swap Pricing  
+7.3 Swap Trading, Market Quotes & Conventions  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.3.1 Par Rate Definition  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.3.2 Receiver Swaps  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.3.3 Payer Swaps  
@@ -91,8 +91,15 @@ List of Symbols and Abbreviations
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.3.6 Market Par Rate Definition  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.3.7 Trade Par Rate Definition  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.3.8 Choice of Par Rate  
-  
-#### Chapter 8 Swap Case Study Examples  
+7.4 Interest Rate Swap Risk  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.1 Duration Matching & Hedging  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.2 Macaulay's Duration  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.3 Modified Duration  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.4 Swap PV01  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.5 Swap DV01  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.6 Hedge Ratios & Duration Matching  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.7 Numerical Risk - PV01 & DV01  
+#### Chapter 8 Interest Rate Swap Case Study Examples  
 #### Chapter 9 Asset Swap Pricing & Risk  
 #### Chapter 10 Asset Swap Case Study Examples  
 #### Chapter 11 Conclusion  
