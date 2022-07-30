@@ -114,7 +114,6 @@ List of Symbols and Abbreviations
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.5 Modified Duration  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.6 Swap PV01  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.7 Swap DV01  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.8 Hedge Ratio & Amount  
 #### Chapter 9 Asset Swap Pricing & Risk  
 #### Chapter 10 Asset Swap Case Study Examples  
 #### Chapter 11 Conclusion  
