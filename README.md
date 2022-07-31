@@ -114,6 +114,29 @@ List of Symbols and Abbreviations
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.5 Modified Duration  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.6 Swap PV01  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.7.7 Swap DV01  
-#### Chapter 9 Asset Swap Pricing & Risk  
-#### Chapter 10 Asset Swap Case Study Examples  
-#### Chapter 11 Conclusion  
+#### Chapter 9 Asset Swap Structuring  
+9.1 Credit Risk  
+9.2		Asset Swap Spreads  
+9.3		Multiple Swap Curves & Yield Curve Calibration  
+9.4		Benchmark Swap Curves  
+9.5		Risk-Free Rate Curves  
+9.6		Curve Risk  
+9.7		Convexity Risk  
+9.8		Par Adjustments, Funding & Collateral  
+9.9		Asset Swap Pricing Methodologies  
+9.10	Yield-Yield Asset Swap Spread  
+9.11	Par-Par Asset Swaps  
+9.12	Par-Par Asset Swap Structuring & Cash Flows  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.12.1	Initial Notional Exchanges  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.12.2	Interim Coupons  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.12.3	Final Notionla Exchanges  
+9.13	Summary of Asset Swap Pricing Methodologies  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.13.1	Yield-Yield Asset Swap Spread  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.13.2	Par-Par Asset Swap Spread  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.13.3	Market Value Adjusted (MVA)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.13.4	Yield Accrete  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.13.5	Z-Spread  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.13.6	CDS Spread  
+#### Chapter 10 Asset Swap Pricing & Risk  
+#### Chapter 11 Asset Swap Case Study Examples  
+#### Chapter 12 Conclusion  
