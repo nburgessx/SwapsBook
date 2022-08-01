@@ -129,7 +129,7 @@ List of Symbols and Abbreviations
 9.12	Par-Par Asset Swap Structuring & Cash Flows  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.12.1	Initial Notional Exchanges  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.12.2	Interim Coupons  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.12.3	Final Notionla Exchanges  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.12.3	Final Notional Exchanges  
 9.13	Summary of Asset Swap Pricing Methodologies  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.13.1	Yield-Yield Asset Swap Spread  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.13.2	Par-Par Asset Swap Spread  
