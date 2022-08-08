@@ -138,7 +138,7 @@ List of Symbols and Abbreviations
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.13.4	Yield Accrete  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.13.5	Z-Spread  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.13.6	CDS Spread  
-#### Chapter 10 Asset Swap Pricing Examples 
+#### Chapter 10 Asset Swap Pricing & Examples 
 10.1 Yield-Yield Asset Swap Spread Formula  
 10.2 Yield-Yield Asset Swap Spread Examples  
 10.3 Par-Par Asset Swap Spread Formula  
