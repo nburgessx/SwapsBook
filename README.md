@@ -12,7 +12,12 @@ List of Symbols and Abbreviations
   
 ## PART ONE: THEORY – PRODUCTS AND MODELS
   
-#### Chapter 1 Introduction to Interest Rate Markets
+#### Chapter 1 Introduction to Interest Rate Markets 
+1.1 Project Finance, Interest Rate Risk and Hedge Instruments   
+1.2 Interest Rate Benchmarks   
+1.3 Benchmark Rate Reform  
+1.4 Market Terminology  
+1.5 Interest Rate Market Changes  
 #### Chapter 2 Introduction to Interest Rate Swaps
 2.1 Swap Quotation as an NPV or Par Rate  
 2.2 Swap Quotation as a Spread Over US Treasury Yields  
@@ -143,4 +148,3 @@ List of Symbols and Abbreviations
 10.2 Yield-Yield Asset Swap Spread Examples  
 10.3 Par-Par Asset Swap Spread Formula  
 10.4 Par-Par Asset Swap Spread Examples  
-#### Chapter 11 Conclusion  
