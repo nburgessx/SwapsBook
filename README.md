@@ -15,7 +15,7 @@ List of Symbols and Abbreviations
 #### Chapter 1 Introduction to Interest Rate Markets 
 1.1 Project Finance, Interest Rate Risk and Hedge Instruments   
 1.2 Interest Rate Benchmarks   
-1.3 Benchmark Rate Reform  
+1.3 Impact of Benchmark Rate Reform  
 1.4 Market Terminology  
 1.5 Interest Rate Market Changes  
 #### Chapter 2 Introduction to Interest Rate Swaps
