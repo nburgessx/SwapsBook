@@ -38,7 +38,7 @@ List of Symbols and Abbreviations
 3.7 Asset Swaps (ASW)  
 3.8 Forward Rate Agreements (FRA)  
 3.9 Interest Rate Futures (FUT)  
-#### Chapter 4 Yield Curves, Forecasting & Discounting  
+#### Chapter 4 Yield Curves, Forecasting & Discounting Cash Flows 
 4.1 Forward Rates  
 4.2 Discount Factors  
 4.3 The Forward Rate - Discount Factor Relationship  
