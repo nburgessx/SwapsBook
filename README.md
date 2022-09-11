@@ -13,7 +13,7 @@ List of Symbols and Abbreviations
 ## PART ONE: THEORY – PRODUCTS AND MODELS
   
 #### Chapter 1 Introduction to Interest Rate Markets 
-1.1 Project Finance, Interest Rate Risk and Hedge Instruments   
+1.1 Project Finance, Risk Management & Hedge Instruments   
 1.2 Interest Rate Benchmarks   
 1.3 Impact of Benchmark Rate Reform  
 1.4 Market Terminology  
