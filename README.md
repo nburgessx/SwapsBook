@@ -4,10 +4,11 @@ Supporting materials for my book on electronic rates markets, includes Excel wor
 ## CONTENTS
   
 ## PREFACE
-Purpose of the Book  
-Book Structure  
+Interest Rate Swaps, Theory & Practice  
+Preface  
 Acknowledgements  
-About the Author  
+Introduction  
+Excel Support Materials  
 List of Symbols and Abbreviations  
   
 ## PART ONE: THEORY – PRODUCTS AND MODELS
