@@ -4,15 +4,25 @@ Supporting materials for my book on electronic rates markets, includes Excel wor
 ## CONTENTS
   
 ## PREFACE
-Purpose of the Book  
-Book Structure  
+Interest Rate Swaps, Theory & Practice  
+Preface  
 Acknowledgements  
-About the Author  
+Introduction  
+Excel Support Materials  
 List of Symbols and Abbreviations  
   
 ## PART ONE: THEORY – PRODUCTS AND MODELS
   
-#### Chapter 1 Introduction to Interest Rate Markets
+#### Chapter 1 Introduction to Interest Rate Markets 
+1.1 Project Finance, Risk Management & Hedge Instruments   
+1.2 Interest Rate Benchmarks   
+1.3 Impact of Benchmark Rate Reform  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1 Structural Interest Rate Changes  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.2 Fall-Back Rates  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3 Yield Curve Changes  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.4 New Interest Rate Products  
+1.4 Market Terminology  
+1.5 Interest Rate Market Changes  
 #### Chapter 2 Introduction to Interest Rate Swaps
 2.1 Swap Quotation as an NPV or Par Rate  
 2.2 Swap Quotation as a Spread Over US Treasury Yields  
@@ -33,7 +43,7 @@ List of Symbols and Abbreviations
 3.7 Asset Swaps (ASW)  
 3.8 Forward Rate Agreements (FRA)  
 3.9 Interest Rate Futures (FUT)  
-#### Chapter 4 Yield Curves, Forecasting & Discounting  
+#### Chapter 4 Yield Curves, Forecasting & Discounting Cash Flows 
 4.1 Forward Rates  
 4.2 Discount Factors  
 4.3 The Forward Rate - Discount Factor Relationship  
@@ -143,4 +153,3 @@ List of Symbols and Abbreviations
 10.2 Yield-Yield Asset Swap Spread Examples  
 10.3 Par-Par Asset Swap Spread Formula  
 10.4 Par-Par Asset Swap Spread Examples  
-#### Chapter 11 Conclusion  
