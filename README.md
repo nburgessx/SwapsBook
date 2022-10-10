@@ -6,7 +6,7 @@ Supporting materials for my book on electronic rates markets, includes Excel wor
 ## CONTENTS
   
 ## PREFACE
-Interest Rate Swaps, Theory & Practice  
+Low Latency Interest Rate Markets
 Preface  
 Acknowledgements  
 Introduction  
