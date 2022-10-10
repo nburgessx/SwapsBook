@@ -5,7 +5,6 @@ Supporting materials for my book on electronic rates markets, includes Excel wor
   
 ## CONTENTS
   
-## PREFACE
 Low Latency Interest Rate Markets
 Preface  
 Acknowledgements  
