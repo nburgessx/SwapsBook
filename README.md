@@ -1,10 +1,11 @@
-# Interest Rate Swaps – Theory, Pricing and Practice
+![image](https://user-images.githubusercontent.com/4067689/194782599-6ee96607-f1a7-4156-9f0d-38852f7ce98c.png)
+
+# Low Latency Interest Rate Markets - Theory, Pricing and Practice
 Supporting materials for my book on electronic rates markets, includes Excel workbooks, pricers and background research
   
 ## CONTENTS
   
-## PREFACE
-Interest Rate Swaps, Theory & Practice  
+Low Latency Interest Rate Markets  
 Preface  
 Acknowledgements  
 Introduction  
