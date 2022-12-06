@@ -155,3 +155,12 @@ List of Symbols and Abbreviations
 10.2 Yield-Yield Asset Swap Spread Examples  
 10.3 Par-Par Asset Swap Spread Formula  
 10.4 Par-Par Asset Swap Spread Examples  
+#### Chapter 11 Trader Pricing Tricks & Rules of Thumb  
+11.1 Key Pricing & Risk Factor - The Annuity  
+11.2 Trader Rule of Thumb - The Annuity Approximation  
+11.3 Trader Pricing Tricks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.1	Interest Rate Swap PV, Par Rate & Risk  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.2	Tenor Basis Spread  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.3	Credit Default Spread  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.4	Asset Swap Spread  
+11.4 Low Latency Considerations  
