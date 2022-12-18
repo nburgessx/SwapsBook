@@ -156,11 +156,21 @@ List of Symbols and Abbreviations
 10.3 Par-Par Asset Swap Spread Formula  
 10.4 Par-Par Asset Swap Spread Examples  
 #### Chapter 11 Trader Pricing Tricks & Rules of Thumb  
-11.1 Key Pricing & Risk Factor - The Annuity  
+11.1 Key Pricing & Risk Factor - The Annuity Factor  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.1.1	Swap Pricing using the Annuity Factor  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.1.2	Swap Risk using the Annuity Factor  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.1.2	Credit Default Swap Pricing using the Annuity Factor  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.1.3	Credit Risk using the Annuity Factor  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.1.4	Asset Swap Spread using the Annuity Factor  
 11.2 Trader Rule of Thumb - The Annuity Approximation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.1	Annuity Assumptions  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.2	Trader Rule of Thumb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.3	Rule of Thumb 1: Simple Swap Pricing and Risk  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.4	Rule of Thumb 2: Simple CDS Pricing and Risk  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.5	Rule of Thumb 3: Asset Swap Spread  
 11.3 Trader Pricing Tricks  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.1	Interest Rate Swap PV, Par Rate & Risk  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.2	Tenor Basis Spread  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.3	Credit Default Spread  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.4	Asset Swap Spread  
-11.4 Low Latency Considerations  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.1	Trick 1 – Quick Swap Pricing & Risk  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.2	Trick 2 – Quick CDS Pricing & Risk  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.3	Trick 3 – Quick Asset Swap Spread  
+11.4	Applications of Trader Tricks for Quick Pricing & Risk  
+11.5 Low Latency Considerations  
