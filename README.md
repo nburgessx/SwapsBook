@@ -165,8 +165,8 @@ List of Symbols and Abbreviations
 11.2 Trader Rule of Thumb - The Annuity Approximation  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.1	Annuity Assumptions  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.2	Trader Rule of Thumb  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.3	Rule of Thumb 1: Simple Swap Pricing and Risk  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.4	Rule of Thumb 2: Simple CDS Pricing and Risk  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.3	Rule of Thumb 1: Swap Pricing and Risk  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.4	Rule of Thumb 2: CDS Pricing and Risk  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.5	Rule of Thumb 3: Asset Swap Spread  
 11.3 Trader Pricing Tricks  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.1	Trick 1 – Quick Swap Pricing & Risk  
