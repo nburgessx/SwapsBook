@@ -1,5 +1,4 @@
-![Swaps2](https://user-images.githubusercontent.com/4067689/195212208-ab431990-241d-4cf3-9156-dec6bcd559ed.png)
-
+![image](https://user-images.githubusercontent.com/4067689/212567944-e58c0680-e4ad-4c9d-b504-98604d3d54d4.png)
 
 # Low Latency Interest Rate Markets - Theory, Pricing and Practice
 Supporting materials for my book on electronic rates markets, includes Excel workbooks, pricers and background research
