@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/4067689/215286673-97b63308-2a6d-4b02-b20e-0aca86dd3d73.png)
 
+![image](https://user-images.githubusercontent.com/4067689/215286531-a44335fd-5d36-494d-8e80-cb1728f3f212.png)
+
 **Quant Research Papers**  
 https://ssrn.com/author=1728976
 
@@ -13,8 +15,6 @@ https://amzn.eu/d/8mh6QC6
 
 **Available from Amazon USA**  
 https://a.co/d/hwLoViw
-
-![image](https://user-images.githubusercontent.com/4067689/215286531-a44335fd-5d36-494d-8e80-cb1728f3f212.png)
 
 # Low Latency Interest Rate Markets - Theory, Pricing and Practice
 Supporting materials for my book on electronic rates markets, includes Excel workbooks, pricers and background research
