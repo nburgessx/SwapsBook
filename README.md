@@ -2,7 +2,17 @@
 
 ![image](https://user-images.githubusercontent.com/4067689/215286673-97b63308-2a6d-4b02-b20e-0aca86dd3d73.png)
 
-![image](https://user-images.githubusercontent.com/4067689/215286260-a59a9d01-f23f-4657-b8d7-9a6e397f0942.png)
+**Quant Research Papers**  
+https://ssrn.com/author=1728976
+
+**Support Materials, C++ & Excel Examples**  
+https://github.com/nburgessx/SwapsBook
+
+**Available from Amazon UK**  
+https://amzn.eu/d/8mh6QC6
+
+**Available from Amazon USA**  
+https://a.co/d/hwLoViw
 
 ![image](https://user-images.githubusercontent.com/4067689/215286531-a44335fd-5d36-494d-8e80-cb1728f3f212.png)
 
