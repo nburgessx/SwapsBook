@@ -11,10 +11,10 @@ https://ssrn.com/author=1728976
 https://github.com/nburgessx/SwapsBook
 
 **Available from Amazon UK**  
-https://amzn.eu/d/8mh6QC6
+https://www.amazon.co.uk/dp/9994985949
 
 **Available from Amazon USA**  
-https://a.co/d/hwLoViw
+https://www.amazon.com/dp/9994985949
 
 # Low Latency Interest Rate Markets - Theory, Pricing and Practice
 Supporting materials for my book on electronic rates markets, includes Excel workbooks, pricers and background research
