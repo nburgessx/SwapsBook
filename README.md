@@ -1,8 +1,4 @@
-![image](https://user-images.githubusercontent.com/4067689/215274573-59b84221-bb0a-4092-b222-238025915b91.png)
-
-![image](https://user-images.githubusercontent.com/4067689/215286673-97b63308-2a6d-4b02-b20e-0aca86dd3d73.png)
-
-![image](https://user-images.githubusercontent.com/4067689/215286531-a44335fd-5d36-494d-8e80-cb1728f3f212.png)
+![image](https://user-images.githubusercontent.com/4067689/217390812-6caa3039-bd49-4f61-9ebb-3da39a8154de.png)
 
 **Quant Research Papers**  
 https://ssrn.com/author=1728976
