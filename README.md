@@ -16,6 +16,10 @@ https://www.amazon.co.uk/dp/9994985949
 **Available from Amazon USA**  
 https://www.amazon.com/dp/9994985949
 
+**Available from Eliva Press**  
+Email info@elivapress.com for 10% discount  
+https://www.elivapress.com/en/book/book-9161981805/
+
 # Low Latency Interest Rate Markets - Theory, Pricing and Practice
 Supporting materials for my book on electronic rates markets, includes Excel workbooks, pricers and background research
   
