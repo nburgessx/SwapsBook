@@ -16,9 +16,21 @@ https://www.amazon.com/dp/9994985949
 Email info@elivapress.com for 10% discount  
 https://www.elivapress.com/en/book/book-9161981805/
 
+# Author Biography
+Nicholas Burgess has a breadth of practitioner experience accumulated from having worked on trading floors internationally as a Quant for many large investment banks, hedge funds and financial institutions including Citigroup, UBS, Credit Suisse, Bank of America, CQS Hedge Fund, Deutsche Bank, Commerzbank, Société Générale, ANZ, MUFG, Mizuho, HSBC and currently XP Investments. This has allowed the author to gain broad insight and exposure to the trading, pricing and risk management of interest rates, fixed income, equities, credit, commodities, FX, hybrids & exotics, inflation and XVA. Recently he worked as the Head of Quant Research and Analytics for Mizuho specializing in electronic swaps trading, low latency pricing and risk analytics. Currently he manages the core Quant teams covering at XP Inc in Brazil. 
+
+He is well‐qualified having read financial strategy at Saïd Business School, University of Oxford with post‐graduate research in machine learning and algorithmic trading strategies. He also read quant finance at Henley Business School and Mathematics at the University of Manchester. Over the course of his professional and academic career the author has written and published many quantitative and finance research papers.
+
 # Low Latency Interest Rate Markets - Theory, Pricing and Practice
-Supporting materials for my book on electronic rates markets, includes Excel workbooks, pricers and background research
-  
+In today’s interest rate derivatives markets, there is a rising urgency to provide timely, accurate computations to adequately support for electronic pricing, trading and risk management. The construction of low latency interest rate systems is a challenging task at the leading edge of quantitative and practical applications. For readers with a need to understand the theoretical and practical content of such systems there is no other source needed except this one book.  With great clarity of text and its emphasis on pragmatic applications, all written by an industry practitioner, this book sets the standard for low latency practice in today’s interest rate derivatives markets.  
+***Ronald T. Slivka, Ph.D.***, *Adjunct Professor, NYU Tandon School of Engineering*
+
+The world of quantitative finance is constantly evolving to meet the requirements of an ever-changing market, new regulations, improvements in technology and the greater need for real-time calculations. This book addresses these challenges and is the result of years of experience at leading financial institutions. It is remarkable in the wide-ranging topics it covers, and the level of mathematical detail it contains while remaining accessible. This book is a worthy reference on every quant bookshelf.  
+***Ian Castleton***, *Director of Quantitative Analytics, Mizuho International*
+
+Nicholas is a world-class Quant and thinker, who capably traverses academic theory for market practitioners to integrate into their investment and risk processes. This book is poised to be a critical compendium on rates markets for years to come.  
+***Karim Henide***, *Portfolio Manager, Record Currency Management*
+
 ## CONTENTS
   
 Low Latency Interest Rate Markets  
