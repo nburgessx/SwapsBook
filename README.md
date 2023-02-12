@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/4067689/217390812-6caa3039-bd49-4f61-9ebb-3da39a8154de.png)
+![image](https://user-images.githubusercontent.com/4067689/218286213-acbb929a-f9df-4f7a-85b9-ec8d1eb34602.png)
 
 **Quant Research Papers**  
 https://ssrn.com/author=1728976
@@ -16,12 +16,27 @@ https://www.amazon.com/dp/9994985949
 Email info@elivapress.com for 10% discount  
 https://www.elivapress.com/en/book/book-9161981805/
 
+# Low Latency Interest Rate Markets - Theory, Pricing and Practice
+
+**Interest Rate Markets**  
+The primary function of interest rate markets is to bring together borrowers and lenders to facilitate the financing of government and corporate projects. It is a market that facilitates more than USD 370 trillion of funding solutions globally. Large scale government and corporate projects carry considerable risk for which interest rate markets provide a wide variety of solutions. Interest rate swaps fix borrowing costs and protect domestic investors from interest rate risk, whilst cross currency swaps protect foreign investors from FX risk. The market provides credit default swaps to protect against counterparty payment defaults and asset swaps provide a fund raising solution to invest in bonds.
+
+**Why the need for speed and low latency?**  
+The interest rate market is primarily an USD 81 trillion electronic market. It is a highly liquid market where transactions take place in real-time with high precision and tight bid-offer spreads of typically 1/10th of a basis point. Consequently, financial service providers, market makers and high frequency traders must compete accurately and at high speed.
+
+**Why purchase this book?**  
+This book shares my insights as an experienced and successful Quant and market practitioner. The analytics I have built at several major financial institutions has been of the highest quality, accuracy and speed. If on a standard desktop in Excel I have been able to compete in interest rate markets and perform calculations in micro-seconds, imagine how my analaytical solutions perform on a server with sophisticated hardware or on the cloud (certainly nano-seconds or better).  
+
+Brute force hardware or cloud solutions may provide speed, but at high financial cost and often miss signifnificant optimizations. The secret sauce and key ingredient to low latency lies in having a detailed understanding of the markets and products on a micro-level to heavily optimize calculations before applying hardware solutions. The majority of pricing and risk calculations can be fundamentally reduced to trival calculations. This is achieved by understanding how to reduce model, portfolio pricing and risk calculations into a state where we can precompute and store the majority of the calculation as static data that does not require continuous recomputation to track the market.  
+
+To compete and succeed in interest rate markets, one must pay attention to the details, which on the surface appear straight forward and trivial, but few look deeper into how to bypass the majority of the calculation. My book demonstrates these techniques and provides examples. I have succeeded in applying these concepts for major financial institutions. Not only do my solutions offer precision and low latency, but they are also low cost and acccessable to all. The world-class analytics I build outperforms competitors who overlook these details as trivia and often insist pricing and risk systems have no state and a low memory footprint.
+
 # Author Biography
 Nicholas Burgess has a breadth of practitioner experience accumulated from having worked on trading floors internationally as a Quant for many large investment banks, hedge funds and financial institutions including Citigroup, UBS, Credit Suisse, Bank of America, CQS Hedge Fund, Deutsche Bank, Commerzbank, Société Générale, ANZ, MUFG, Mizuho, HSBC and currently XP Investments. This has allowed the author to gain broad insight and exposure to the trading, pricing and risk management of interest rates, fixed income, equities, credit, commodities, FX, hybrids & exotics, inflation and XVA. Recently he worked as the Head of Quant Research and Analytics for Mizuho specializing in electronic swaps trading, low latency pricing and risk analytics. Currently he manages the core Quant teams covering at XP Inc in Brazil. 
 
 He is well‐qualified having read financial strategy at Saïd Business School, University of Oxford with post‐graduate research in machine learning and algorithmic trading strategies. He also read quant finance at Henley Business School and Mathematics at the University of Manchester. Over the course of his professional and academic career the author has written and published many quantitative and finance research papers.
 
-# Low Latency Interest Rate Markets - Theory, Pricing and Practice
+# Book Reviews  
 In today’s interest rate derivatives markets, there is a rising urgency to provide timely, accurate computations to adequately support for electronic pricing, trading and risk management. The construction of low latency interest rate systems is a challenging task at the leading edge of quantitative and practical applications. For readers with a need to understand the theoretical and practical content of such systems there is no other source needed except this one book.  With great clarity of text and its emphasis on pragmatic applications, all written by an industry practitioner, this book sets the standard for low latency practice in today’s interest rate derivatives markets.  
 ***Ronald T. Slivka, Ph.D.***, *Adjunct Professor, NYU Tandon School of Engineering*
 
