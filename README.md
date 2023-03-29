@@ -57,16 +57,17 @@ List of Symbols and Abbreviations
   
 ## PART ONE: THEORY – PRODUCTS AND MODELS
   
-#### Chapter 1 Introduction to Interest Rate Markets 
+#### Chapter 1 Introduction to Low Latency Interest Rate Markets 
 1.1 Project Finance, Risk Management & Hedge Instruments   
-1.2 Interest Rate Benchmarks   
-1.3 Impact of Benchmark Rate Reform  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1 Structural Interest Rate Changes  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.2 Fall-Back Rates  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3 Yield Curve Changes  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.4 New Interest Rate Products  
-1.4 Market Terminology  
-1.5 Interest Rate Market Changes  
+1.2 Low Latency Market Requirements & Techniques   
+1.3 Interest Rate Benchmarks   
+1.4 Impact of Benchmark Rate Reform  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.4.1 Structural Interest Rate Changes  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.4.2 Fall-Back Rates  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.4.3 Yield Curve Changes  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.4.4 New Interest Rate Products  
+1.5 Market Terminology  
+1.6 Interest Rate Market Changes  
 #### Chapter 2 Introduction to Interest Rate Swaps
 2.1 Swap Quotation as an NPV or Par Rate  
 2.2 Swap Quotation as a Spread Over US Treasury Yields  
@@ -76,17 +77,47 @@ List of Symbols and Abbreviations
 2.6 Swap Schedule Parameters  
 2.7 Swap Schedule Generation  
 2.8 Swap Schedules & Pricing  
-2.9 Swap Trading Conventions  
+2.9 LIBOR Trading Conventions  
+2.10 RFR Trading Conventions  
 #### Chapter 3 Interest Rate Products & Pricing   
 3.1 Interest Rate Swaps (IRS)  
 3.2 Overnight Indexed Swaps (OIS)  
 3.3 Risk-Free Rate Swaps (RFR)  
 3.4 Tenor Basis Swaps (TBS)  
 3.5 Cross Currency Swaps (XCCY)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.5.1 Funding Example  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.5.2 Cross Currency Swap Risks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.5.3 Cross Currency Swap Features  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.5.4 Example: Trading Book & Cash Flow Schedule  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.5.5 Fixed or Floating Interest  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.5.6 CSA Collateral Posting  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.5.7 FX Forward Rates & CSA Adjustments  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.5.8 Marked-to-Market (MTM)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.5.9 Notional FX Resets  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.5.10 Notional Scaling Factor  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.5.11 Cross Currency Swap Pricing  
 3.6 Credit Default Swaps (CDS)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.6.1 CDS Standardization  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.6.2 CDS Specifications & Terminology  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.6.3 CDS Events & Triggers  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.6.4 CDS Default Swap Pricing  
 3.7 Asset Swaps (ASW)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.7.1 Credit Risk  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.7.2 Asset Swap Spreads  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.7.3 Yield-Yield Asset Swap Spread  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.7.4 Par-Par Asset Swap Spread  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.7.5 Par-Par Asset Swap Spreads with Accrued Interest  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.7.6 Asset Swap Spread Example  
 3.8 Forward Rate Agreements (FRA)  
 3.9 Interest Rate Futures (FUT)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9.1 What is an Interest Rate Future?  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9.2 Differences between Futures and FRAs  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9.3 Futures Contract Specifications  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9.4 Futures Quotes & Pricing  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9.5 Hedging with Futures  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9.6 Futures Trading, Initial & Variation Margin  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9.7 Yield Curve Calibration Using Futures  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9.8 Futures Convexity Adjustments  
 #### Chapter 4 Yield Curves, Forecasting & Discounting Cash Flows 
 4.1 Forward Rates  
 4.2 Discount Factors  
@@ -119,7 +150,10 @@ List of Symbols and Abbreviations
 5.4 Algorithmic Differentiation  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.4.1 Tangent Mode (AD)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.4.2 Adjoint Mode (AAD)  
-  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.4.3 Swap Risk Examples  
+5.5 Computing the Swap Price & DV01 Risk  
+5.6 Professional AD Implementation  
+
 #### Chapter 6 Credit Models  
 6.1 Credit Risky Cash Flows  
 6.2 Hazard Rates  
@@ -149,10 +183,11 @@ List of Symbols and Abbreviations
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.1 Duration Matching & Hedging  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.2 Macaulay's Duration  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.3 Modified Duration  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.4 Swap PV01  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.5 Swap DV01  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.4 Analytical Swap PV01 Risk  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.5 Analyticak Swap DV01 Risk  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.6 Hedge Ratios & Duration Matching  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.7 Numerical Risk - PV01 & DV01  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.7 Numerical Risk  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4.8 Advanced Riks  
 #### Chapter 8 Interest Rate Swap Case Study Examples  
 8.1 Swap Schedules  
 8.2 Swap Market Data  
@@ -197,7 +232,7 @@ List of Symbols and Abbreviations
 10.2 Yield-Yield Asset Swap Spread Examples  
 10.3 Par-Par Asset Swap Spread Formula  
 10.4 Par-Par Asset Swap Spread Examples  
-#### Chapter 11 Trader Pricing Tricks & Rules of Thumb  
+#### Chapter 11 Multiples Pricing & Trader Rules of Thumb  
 11.1 Key Pricing & Risk Factor - The Annuity Factor  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.1.1	Swap Pricing using the Annuity Factor  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.1.2	Swap Risk using the Annuity Factor  
@@ -210,9 +245,9 @@ List of Symbols and Abbreviations
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.3	Rule of Thumb 1: Swap Pricing and Risk  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.4	Rule of Thumb 2: CDS Pricing and Risk  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.2.5	Rule of Thumb 3: Asset Swap Spread  
-11.3 Trader Pricing Tricks  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.1	Trick 1 – Quick Swap Pricing & Risk  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.2	Trick 2 – Quick CDS Pricing & Risk  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.3	Trick 3 – Quick Asset Swap Spread  
-11.4	Applications of Trader Tricks for Quick Pricing & Risk  
+11.3 Multiples Pricing & Risk - Base Cases & Reference Prices  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.1	Base Case 1 – Swap Pricing & Risk Multiples  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.2	Base Case 2 – CDS Pricing & Risk Multiples  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.3.3	Base Case 3 – Asset Swap Spread Factors  
+11.4	Applications of Multiples for Quick Pricing & Risk  
 11.5 Low Latency Considerations  
