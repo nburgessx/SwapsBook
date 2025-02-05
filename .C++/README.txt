@@ -11,7 +11,7 @@ examples and press run at the top of the screen.
 https://onlinegdb.com/kKqaS6hJT
 
 2. AAD-Simple-Swap.cpp
-https://www.onlinegdb.com/edit/al8aNASJnQ
+https://onlinegdb.com/fmMk7b3XU
 
 3. AAD-Swap
 https://onlinegdb.com/uNgecMD9y
